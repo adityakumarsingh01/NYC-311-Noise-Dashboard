@@ -1,5 +1,7 @@
 # 📊 NYC 311 Noise Complaints Dashboard (New York & Brooklyn)
-
+<p align="center">
+  <img src="Images/Screenshot 2025-07-01 114730.png" width="700"/>
+</p>
 An interactive Microsoft Excel dashboard developed to analyze and visualize noise complaint data from the NYC 311 dataset, with a special focus on **Brooklyn** and **New York City** boroughs.
 
 ---
