@@ -39,5 +39,11 @@ This project aims to provide meaningful insights into noise-related complaints s
   - Donut & Line Charts
   - Conditional Formatting
   - Dashboard Layout Design
+ 
+  - - **Power BI**
+  - DAX
+  - Power Query
+  - NYC Open Data (311 Noise Complaints)
+  - Conditional Formatting
 
 ---
